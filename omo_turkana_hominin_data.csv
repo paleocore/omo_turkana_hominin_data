@@ -370,7 +370,7 @@ KNM-WT 51261,KNM-WT 51261,#,2010,2015,2015,5,Kenya,Nachukui,#,NAD,Nachukui,Nario
 KNM-WT 66289,KNM-WT 66289,#,2009,2020,2020,11,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,T,RP3OR4,Hominine GSI,cf. K. platyops,NTA,WTPP team,"Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020",west
 KNM-WT 66290,KNM-WT 66290,#,2009,2020,2020,11,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,T,LP3OR4,Hominine GSI,cf. K. platyops,NTA,WTPP team,"Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020",west
 KNM-WT 66291,KNM-WT 66291,#,2009,2020,2020,11,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,T,Lm2or3,Hominine GSI,cf. K. platyops,NTA,WTPP team,"Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020",west
-B 7-39a,B 7-39,A,1967,1968,1969,2,Ethiopia,Brown Sands,#,B 7,Usno,U-12,B-2 (U-12),3.19-3.21,~3.05,T,LP3,Australopitheucs sp.,A. aff. afarensis,NTA,#,"Howell, 1968","Howell, 1969","Suwa, 1990; Wood and Leakey, 2011","Feibel et al., 1989; Wynn et al., 2020",north
+B 7-39a,B 7-39,A,1967,1968,1969,2,Ethiopia,Brown Sands,#,B 7,Usno,U-12,B-2 (U-12),3.19-3.21,~3.05,T,LP3,Australopithecus sp.,A. aff. afarensis,NTA,#,"Howell, 1968","Howell, 1969","Suwa, 1990; Wood and Leakey, 2011","Feibel et al., 1989; Wynn et al., 2020",north
 B 7-39b,B 7-39,B,1967,1968,1969,2,Ethiopia,Brown Sands,#,B 7,Usno,U-12,B-2 (U-12),3.19-3.21,~3.05,T,LP4,Australopithecus sp.,A. aff. afarensis,NTA,#,"Howell, 1968","Howell, 1969","Suwa, 1990; Wood and Leakey, 2011","Feibel et al., 1989; Wynn et al., 2020",north
 B 7-39c,B 7-39,C,1967,1968,1969,2,Ethiopia,Brown Sands,#,B 7,Usno,U-12,B-2 (U-12),3.19-3.21,~3.05,T,LM1 frag.,Australopithecus sp.,A. aff. afarensis,NTA,#,"Howell, 1968","Howell, 1969","Suwa, 1990; Wood and Leakey, 2011","Feibel et al., 1989; Wynn et al., 2020",north
 B 8-4q,B 8-4,Q,1968,1969,1969,1,Ethiopia,Brown Sands,#,B 8,Usno,U-12,B-2 (U-12),3.19-3.21,~3.05,T,LP4,Australopithecus sp.,A. aff. afarensis,NTA,#,"Howell, 1969","Howell, 1969","Suwa, 1990; Wood and Leakey, 2011","Feibel et al., 1989; Wynn et al., 2020",north
@@ -1230,6 +1230,7 @@ KNM-ER 77069,KNM-ER 77069,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Up
 KNM-ER 77070,KNM-ER 77070,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,C,Skull fragment,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
 KNM-ER 77071,KNM-ER 77071,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,P,Left prox. metatarsal 3,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
 KNM-ER 77072,KNM-ER 77072,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,P,Left partial Ilium,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
+
 
 
 
