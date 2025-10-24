@@ -365,7 +365,7 @@ KNM-WT 39955,KNM-WT 39955,#,1998,2001,2020,22,Kenya,Nachukui,#,LO-5,Nachukui,Lom
 KNM-WT 40000,KNM-WT 40000,#,1999,2001,2001,2,Kenya,Nachukui,#,LO-6N,Nachukui,Kataboi,#,3.40-3.57,3.40-3.57,C,Skull,K. platyops H,K. platyops H,NTA,#,"Leakey et al., 2001","Leakey et al., 2001","Leakey et al., 2001","Leakey et al., 2001",west
 KNM-WT 40001,KNM-WT 40001,#,1998,2001,2001,3,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,C,R temporal,Hominine GSI,cf. K. platyops,NTA,#,"Leakey et al., 2001","Leakey et al., 2001","Leakey et al., 2001; Skinner et al. 2020","Leakey et al., 2001",west
 KNM-WT 42718,KNM-WT 42718,#,2002,2005,2005,3,Kenya,Nachukui,#,LO-1alpha,Nachukui,Kalochoro,#,2.30-2.38,2.26-2.34,T,Rm1,Homo sp.,Homo sp.,SPI,J-P Brugal,"Prat et al., 2005","Prat et al., 2005","Prat et al., 2005","Prat et al, 2005; McDougall et Brown, 2008",west
-KNM-WT 51260,KNM-WT 51260,#,2011,2014,2014,3,Kenya,Nachukui,#,Kaitio,Nachukui,Natoo, Lokapetamoi tuff level,1.41-1.43,1.41-1.43,P,R metacarpal III,Homo cf. erectus ,Homo cf. ergaster,UTA,WTPP team,"Ward et al., 2014","Ward et al., 2014","Ward et al., 2014","Ward et al., 2014",west
+KNM-WT 51260,KNM-WT 51260,#,2011,2014,2014,3,Kenya,Nachukui,#,Kaitio,Nachukui,Natoo, Lokapetamoi tuff level,1.41-1.43,1.41-1.43,P,R metacarpal III,H. cf. erectus,Homo cf. ergaster,UTA,WTPP team,"Ward et al., 2014","Ward et al., 2014","Ward et al., 2014","Ward et al., 2014",west
 KNM-WT 51261,KNM-WT 51261,#,2010,2015,2015,5,Kenya,Nachukui,#,NAD,Nachukui,Nariokotome,#,0.75,0.75,T,Lm1or2 germ,Homo sp.,Homo sp.,SPI,WTPP team,"Maddux et al., 2015","Maddux et al., 2015","Maddux et al., 2015","Maddux et al., 2015",west
 KNM-WT 66289,KNM-WT 66289,#,2009,2020,2020,11,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,T,RP3OR4,Hominine GSI,cf. K. platyops,NTA,WTPP team,"Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020",west
 KNM-WT 66290,KNM-WT 66290,#,2009,2020,2020,11,Kenya,Nachukui,#,LO-5,Nachukui,Lomekwi,#,3.20-3.40,3.20-3.40,T,LP3OR4,Hominine GSI,cf. K. platyops,NTA,WTPP team,"Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020","Skinner et al, 2020",west
@@ -1230,6 +1230,7 @@ KNM-ER 77069,KNM-ER 77069,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Up
 KNM-ER 77070,KNM-ER 77070,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,C,Skull fragment,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
 KNM-ER 77071,KNM-ER 77071,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,P,Left prox. metatarsal 3,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
 KNM-ER 77072,KNM-ER 77072,#,2017(19),2021,2021,#,Kenya,Ileret,13,#,Koobi Fora,Upper Burgi,KBS-3m,1.86-1.93,1.86-1.93,P,Left partial Ilium,H. erectus,H. ergaster,NTN,#,"Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021","Hammond et al., 2021",east
+
 
 
 
